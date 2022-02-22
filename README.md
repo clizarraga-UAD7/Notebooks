@@ -1,2 +1,2 @@
-# Test-
-This is a test Repo
+# Jupyter Notebooks
+Repository for Workshops Notebooks
