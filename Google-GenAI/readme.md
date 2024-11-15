@@ -33,11 +33,17 @@ Nov. 2024
 
 * [Whitepaper 4: Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)  |
   [Podcast 4 - NotebookLM](https://youtu.be/b1a4ZOQ8XdI?si=uKTE8a-qDa5W9P85)
-* [Video 4 - pending]()
+* [Video 4](https://www.youtube.com/live/odvuLMJWUSU?si=hB-rk67GuOVp2CNh)
   
 #### Notebooks Day 4
 * [Day 4 - Google Search grounding with the Gemini API](https://github.com/clizarraga-UAD7/Notebooks/blob/main/Google-GenAI/Day_4_Google_Search_grounding.ipynb)
 * [Day 4 - Day 4 - Fine tuning a custom model](https://github.com/clizarraga-UAD7/Notebooks/blob/main/Google-GenAI/Day_4_Fine_tuning_a_custom_model.ipynb)
+
+### Day 5
+* [Whitepaper 5: Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops) | [Podcast 5 - NotebookLM](https://youtu.be/k9S6IhiUUj4?si=saIBy_5jr6WvJc3O)
+
+#### Code Day 5
+* [Day 5 - GoogleCloudPlatform/generative-ai: End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack)
 
 ***
 
