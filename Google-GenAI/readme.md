@@ -1,7 +1,8 @@
 ## Kaggle Google Generative AI (5 day course)
 Nov. 2024
 
-[**Discord Channel**](https://discord.com/invite/gNrC9Xut)
+* [Daily Livestreams for 5-Day Gen AI Intensive Course](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
+* [**Discord Channel**](https://discord.com/invite/gNrC9Xut)
 
 ### Day 1
 * [Whitepaper 1a: Foundational Large Language Models & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation) | [Podcast NotebookLM](https://youtu.be/mQDlCZZsOyo?si=fGdVUjsE14WN2s4B)
@@ -41,10 +42,11 @@ Nov. 2024
 
 ### Day 5
 * [Whitepaper 5: Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops) | [Podcast 5 - NotebookLM](https://youtu.be/k9S6IhiUUj4?si=saIBy_5jr6WvJc3O)
-
+* [Video 5 - pending]()
+  
 #### Code Day 5
 * [Day 5 - GoogleCloudPlatform/generative-ai: End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack)
 
 ***
 
-Updated: 11/12/2024
+Updated: 11/15/2024
