@@ -42,10 +42,12 @@ Nov. 2024
 
 ### Day 5
 * [Whitepaper 5: Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops) | [Podcast 5 - NotebookLM](https://youtu.be/k9S6IhiUUj4?si=saIBy_5jr6WvJc3O)
-* [Video 5 - pending]()
+* [Video 5](https://www.youtube.com/live/uCFW0i9xrBc?si=X0f-Z0iqhBrxi5fR)
   
 #### Code Day 5
 * [Day 5 - GoogleCloudPlatform/generative-ai: End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack)
+* [Bonus Day - So long and farewell!](https://github.com/clizarraga-UAD7/Notebooks/blob/main/Bonus_Day_Extra_API_features_to_try.ipynb)
+  
 
 ***
 
