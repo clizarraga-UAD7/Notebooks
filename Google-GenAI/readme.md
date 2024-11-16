@@ -1,7 +1,7 @@
 ## Kaggle Google Generative AI (5 day course)
 Nov. 2024
 
-* [Daily Livestreams for 5-Day Gen AI Intensive Course](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
+* [**Daily Livestreams for 5-Day Gen AI Intensive Course**](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 * [**Discord Channel**](https://discord.com/invite/gNrC9Xut)
 
 ### Day 1
