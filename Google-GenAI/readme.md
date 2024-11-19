@@ -46,8 +46,7 @@
   
 #### Code Day 5
 * [Day 5 - GoogleCloudPlatform/generative-ai: End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack)
-* [Bonus Day - So long and farewell!](https://github.com/clizarraga-UAD7/Notebooks/blob/main/Bonus_Day_Extra_API_features_to_try.ipynb)
-  
+* [Bonus Day - So long and farewell!](https://github.com/clizarraga-UAD7/Notebooks/blob/main/Google-GenAI/Bonus_Day_Extra_API_features_to_try.ipynb)
 
 ***
 
